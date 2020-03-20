@@ -7,6 +7,7 @@ Attrition is the target variable represented as a Boolean field. Using features 
 ## Assumptions
 1.	Since we do not have test data separately, we will use the Train-Test Split from SciKit-Learn for generating the test data (used to compute the performance metrics).
 2.	Data is fictional and can result in a very low accuracy score- we will then opt for some-other metrics for model evaluation.
+3. There is no Time-Series data for the attrition of employees which will result in some deviation.
 
 
 ## Contents
