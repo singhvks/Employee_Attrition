@@ -16,5 +16,13 @@ Attrition is the target variable represented as a Boolean field. Using features 
 4. HR-Employee-Attrition - Data file taken from https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 5. Visualization plots are added in file Visualization
 
+## Algorithms used
+1. Logistic Regression
+2. Random Forest
+
+## Encoder used
+1. Label Encoder
+2. One Hot Encoder
+
 ### Note: 
 I welcome any suggestions or recommendation to make this project better. Also I am working on the visualization part too.
